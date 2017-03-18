@@ -1,7 +1,7 @@
 
-#Wepapp 
+# Wepapp aplicaciones con Gulp
 
-para ejecutar el proyecto en modo de desarrollo, correr el sisuiente comando 
+Para ejecutar el proyecto en modo de desarrollo, correr el sisuiente comando 
 
 npm start-dev
 
